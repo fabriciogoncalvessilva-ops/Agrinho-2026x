@@ -1,0 +1,41 @@
+<svg width="900" height="620" viewBox="0 0 900 620" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="titulo descricao">
+    <title id="titulo">Campo sustentável com tecnologia limpa</title>
+    <desc id="descricao">Ilustração autoral de lavoura, árvores, casa rural, painéis solares, água e sensores digitais no campo.</desc>
+    <rect width="900" height="620" rx="8" fill="#EAF6E2"/>
+    <circle cx="735" cy="105" r="58" fill="#FFD166"/>
+    <path d="M0 250C125 195 210 232 318 196C435 157 535 178 648 146C744 119 833 141 900 108V620H0V250Z" fill="#CFE8B4"/>
+    <path d="M0 340C126 294 205 319 327 282C465 240 586 266 704 228C792 200 850 210 900 190V620H0V340Z" fill="#8BCF74"/>
+    <path d="M0 438C120 392 234 404 355 360C482 313 601 344 730 300C814 271 861 285 900 265V620H0V438Z" fill="#2D7D46"/>
+    <path d="M87 620C185 540 294 497 420 486C556 474 692 505 813 620H87Z" fill="#B77D3B"/>
+    <path d="M122 600C220 540 319 515 430 510C551 505 660 530 765 600" stroke="#F4EAD7" stroke-width="9" stroke-linecap="round"/>
+    <path d="M169 560C255 528 341 514 432 514C526 514 609 530 696 560" stroke="#F4EAD7" stroke-width="7" stroke-linecap="round"/>
+    <rect x="122" y="270" width="145" height="115" rx="8" fill="#FFFFFF"/>
+    <path d="M103 285L194 218L286 285H103Z" fill="#123F2A"/>
+    <rect x="149" y="315" width="38" height="70" fill="#B77D3B"/>
+    <rect x="203" y="315" width="38" height="42" fill="#2A7FB8"/>
+    <rect x="578" y="256" width="190" height="112" rx="8" fill="#123F2A"/>
+    <path d="M600 278H746V346H600V278Z" fill="#2A7FB8"/>
+    <path d="M600 301H746M626 278V346M654 278V346M682 278V346M710 278V346" stroke="#D9EEF8" stroke-width="4"/>
+    <rect x="665" y="368" width="16" height="78" fill="#123F2A"/>
+    <path d="M520 458C556 424 600 424 636 458C596 474 560 474 520 458Z" fill="#D9EEF8"/>
+    <path d="M538 456C568 440 594 440 620 456" stroke="#2A7FB8" stroke-width="6" stroke-linecap="round"/>
+    <circle cx="347" cy="286" r="35" fill="#123F2A"/>
+    <rect x="340" y="318" width="14" height="80" fill="#7A4E25"/>
+    <circle cx="386" cy="302" r="42" fill="#2D7D46"/>
+    <rect x="379" y="336" width="14" height="75" fill="#7A4E25"/>
+    <circle cx="424" cy="284" r="34" fill="#8BCF74"/>
+    <rect x="418" y="315" width="12" height="75" fill="#7A4E25"/>
+    <rect x="770" y="395" width="22" height="120" rx="8" fill="#123F2A"/>
+    <circle cx="781" cy="377" r="35" fill="#2A7FB8"/>
+    <circle cx="781" cy="377" r="16" fill="#D9EEF8"/>
+    <path d="M781 342V319M816 377H840M781 412V435M746 377H722" stroke="#2A7FB8" stroke-width="8" stroke-linecap="round"/>
+    <path d="M62 494C94 470 129 470 161 494" stroke="#D9EEF8" stroke-width="10" stroke-linecap="round"/>
+    <path d="M48 520C92 486 140 486 184 520" stroke="#D9EEF8" stroke-width="10" stroke-linecap="round"/>
+    <path d="M313 438H407M334 414H386M355 390H365" stroke="#123F2A" stroke-width="10" stroke-linecap="round"/>
+    <circle cx="625" cy="178" r="13" fill="#2A7FB8"/>
+    <circle cx="665" cy="154" r="9" fill="#2A7FB8"/>
+    <circle cx="704" cy="176" r="11" fill="#2A7FB8"/>
+    <path d="M625 178L665 154L704 176" stroke="#2A7FB8" stroke-width="5" stroke-linecap="round"/>
+    <text x="105" y="92" fill="#123F2A" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="800">Agro + tecnologia + natureza</text>
+    <text x="108" y="132" fill="#2D7D46" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="600">produção forte com futuro sustentável</text>
+</svg>
